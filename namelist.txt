@@ -1,0 +1,6 @@
+#!umba-make-headers
+
+#qt_module qwt
+
+
+
