@@ -1,10 +1,12 @@
 #pragma once
 
-#if !defined(UMBA_MAKE_HEADERS_GENERATED_QwtPlotRenderer_from_qwt__INCLUDE_GUARD)
+#if !defined(UMBA_MAKE_HEADERS_GENERATED_QwtPlotRenderer_from_qwt_QwtPlotRenderer_INCLUDE_GUARD)
 
-    #define UMBA_MAKE_HEADERS_GENERATED_QwtPlotRenderer_from_qwt__INCLUDE_GUARD
+    #define UMBA_MAKE_HEADERS_GENERATED_QwtPlotRenderer_from_qwt_QwtPlotRenderer_INCLUDE_GUARD
 
     // https://doc.qt.io/qt-5/qwtplotrenderer.html
+
+    #include <QwtPlotRenderer>
 
     #if defined(_MSC_VER)
 
@@ -20,5 +22,5 @@
 
     #endif /* _MSC_VER */
 
-#endif /* UMBA_MAKE_HEADERS_GENERATED_QwtPlotRenderer_from_qwt__INCLUDE_GUARD */
+#endif /* UMBA_MAKE_HEADERS_GENERATED_QwtPlotRenderer_from_qwt_QwtPlotRenderer_INCLUDE_GUARD */
 

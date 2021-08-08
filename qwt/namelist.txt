@@ -1,160 +1,159 @@
 #!umba-make-headers
 
 #qt_module qwt
+#qt_module_path ""
 
-
-
-QwtAbstractLegend
-QwtAbstractScale
-QwtAbstractScaleDraw
-QwtAbstractSlider
-QwtAlphaColorMap
-QwtAnalogClock
-QwtArrowButton
-QwtAxis
-QwtAxisId
-QwtBezier
-QwtClipper
-QwtColorMap
-QwtColumnRect
-QwtColumnSymbol
-QwtCompass
-QwtCompassMagnetNeedle
-QwtCompassRose
-QwtCompassScaleDraw
-QwtCompassWindArrow
-QwtCounter
-QwtCPointerData
-QwtCurveFitter
-QwtDate
-QwtDateScaleDraw
-QwtDateScaleEngine
-QwtDial
-QwtDialNeedle
-QwtDialSimpleNeedle
-QwtDynGridLayout
-QwtEventPattern
-QwtGlobal
-QwtGraphic
-QwtHueColorMap
-QwtInterval
-QwtIntervalSample
-QwtIntervalSeriesData
-QwtIntervalSymbol
-QwtKnob
-QwtLegend
-QwtLegendData
-QwtLegendLabel
-QwtLinearColorMap
-QwtLinearScaleEngine
-QwtLogScaleEngine
-QwtLogTransform
-QwtMagnifier
-QwtMath
-QwtMatrixRasterData
-QwtNullPaintDevice
-QwtNullTransform
-QwtOHLCSample
-QwtPainter
-QwtPainterCommand
-QwtPanner
-QwtPicker
-QwtPickerClickPointMachine
-QwtPickerClickRectMachine
-QwtPickerDragLineMachine
-QwtPickerDragPointMachine
-QwtPickerDragRectMachine
-QwtPickerMachine
-QwtPickerPolygonMachine
-QwtPickerTrackerMachine
-QwtPixelMatrix
-QwtPlainTextEngine
-QwtPlot
-QwtPlotAbstractBarChart
-QwtPlotAbstractCanvas
-QwtPlotBarChart
-QwtPlotCanvas
-QwtPlotCurve
-QwtPlotDict
-QwtPlotDirectPainter
-QwtPlotGLCanvas
-QwtPlotGraphicItem
-QwtPlotGrid
-QwtPlotHistogram
-QwtPlotIntervalCurve
-QwtPlotItem
-QwtPlotLayout
-QwtPlotLegendItem
-QwtPlotMagnifier
-QwtPlotMarker
-QwtPlotMultiBarChart
-QwtPlotOpenGLCanvas
-QwtPlotPanner
-QwtPlotPicker
-QwtPlotRasterItem
-QwtPlotRenderer
-QwtPlotRescaler
-QwtPlotScaleItem
-QwtPlotSeriesItem
-QwtPlotShapeItem
-QwtPlotSpectroCurve
-QwtPlotSpectrogram
-QwtPlotSvgItem
-QwtPlotTextLabel
-QwtPlotTradingCurve
-QwtPlotVectorField
-QwtPlotZoneItem
-QwtPlotZoomer
-QwtPoint3D
-QwtPoint3DSeriesData
-QwtPointArrayData
-QwtPointMapper
-QwtPointPolar
-QwtPointSeriesData
-QwtPowerTransform
-QwtRasterData
-QwtRichTextEngine
-QwtRoundScaleDraw
-QwtSamplingThread
-QwtSaturationValueColorMap
-QwtScaleArithmetic
-QwtScaleDiv
-QwtScaleDraw
-QwtScaleEngine
-QwtScaleMap
-QwtScaleWidget
-QwtSeriesData
-QwtSetSample
-QwtSetSeriesData
-QwtSimpleCompassRose
-QwtSlider
-QwtSpline
-QwtSplineBasis
-QwtSplineC1
-QwtSplineC2
-QwtSplineCubic
-QwtSplineCurveFitter
-QwtSplineG1
-QwtSplineInterpolating
-QwtSplineLocal
-QwtSplineParameter
-QwtSplineParametrization
-QwtSplinePleasing
-QwtSplinePolynomial
-QwtSymbol
-QwtSyntheticPointData
-QwtSystemClock
-QwtText
-QwtTextEngine
-QwtTextLabel
-QwtThermo
-QwtTradingChartData
-QwtTransform
-QwtVectorFieldArrow
-QwtVectorFieldData
-QwtVectorFieldSample
-QwtVectorFieldSymbol
-QwtVectorFieldThinArrow
-QwtWeedingCurveFitter
-QwtWheel
-QwtWidgetOverlay
+QwtAbstractLegend                    QwtAbstractLegend                    
+QwtAbstractScale                     QwtAbstractScale                     
+QwtAbstractScaleDraw                 QwtAbstractScaleDraw                 
+QwtAbstractSlider                    QwtAbstractSlider                    
+QwtAlphaColorMap                     QwtAlphaColorMap                     
+QwtAnalogClock                       QwtAnalogClock                       
+QwtArrowButton                       QwtArrowButton                       
+QwtAxis                              QwtAxis                              
+QwtAxisId                            QwtAxisId                            
+QwtBezier                            QwtBezier                            
+QwtClipper                           QwtClipper                           
+QwtColorMap                          QwtColorMap                          
+QwtColumnRect                        QwtColumnRect                        
+QwtColumnSymbol                      QwtColumnSymbol                      
+QwtCompass                           QwtCompass                           
+QwtCompassMagnetNeedle               QwtCompassMagnetNeedle               
+QwtCompassRose                       QwtCompassRose                       
+QwtCompassScaleDraw                  QwtCompassScaleDraw                  
+QwtCompassWindArrow                  QwtCompassWindArrow                  
+QwtCounter                           QwtCounter                           
+QwtCPointerData                      QwtCPointerData                      
+QwtCurveFitter                       QwtCurveFitter                       
+QwtDate                              QwtDate                              
+QwtDateScaleDraw                     QwtDateScaleDraw                     
+QwtDateScaleEngine                   QwtDateScaleEngine                   
+QwtDial                              QwtDial                              
+QwtDialNeedle                        QwtDialNeedle                        
+QwtDialSimpleNeedle                  QwtDialSimpleNeedle                  
+QwtDynGridLayout                     QwtDynGridLayout                     
+QwtEventPattern                      QwtEventPattern                      
+QwtGlobal                            QwtGlobal                            
+QwtGraphic                           QwtGraphic                           
+QwtHueColorMap                       QwtHueColorMap                       
+QwtInterval                          QwtInterval                          
+QwtIntervalSample                    QwtIntervalSample                    
+QwtIntervalSeriesData                QwtIntervalSeriesData                
+QwtIntervalSymbol                    QwtIntervalSymbol                    
+QwtKnob                              QwtKnob                              
+QwtLegend                            QwtLegend                            
+QwtLegendData                        QwtLegendData                        
+QwtLegendLabel                       QwtLegendLabel                       
+QwtLinearColorMap                    QwtLinearColorMap                    
+QwtLinearScaleEngine                 QwtLinearScaleEngine                 
+QwtLogScaleEngine                    QwtLogScaleEngine                    
+QwtLogTransform                      QwtLogTransform                      
+QwtMagnifier                         QwtMagnifier                         
+QwtMath                              QwtMath                              
+QwtMatrixRasterData                  QwtMatrixRasterData                  
+QwtNullPaintDevice                   QwtNullPaintDevice                   
+QwtNullTransform                     QwtNullTransform                     
+QwtOHLCSample                        QwtOHLCSample                        
+QwtPainter                           QwtPainter                           
+QwtPainterCommand                    QwtPainterCommand                    
+QwtPanner                            QwtPanner                            
+QwtPicker                            QwtPicker                            
+QwtPickerClickPointMachine           QwtPickerClickPointMachine           
+QwtPickerClickRectMachine            QwtPickerClickRectMachine            
+QwtPickerDragLineMachine             QwtPickerDragLineMachine             
+QwtPickerDragPointMachine            QwtPickerDragPointMachine            
+QwtPickerDragRectMachine             QwtPickerDragRectMachine             
+QwtPickerMachine                     QwtPickerMachine                     
+QwtPickerPolygonMachine              QwtPickerPolygonMachine              
+QwtPickerTrackerMachine              QwtPickerTrackerMachine              
+QwtPixelMatrix                       QwtPixelMatrix                       
+QwtPlainTextEngine                   QwtPlainTextEngine                   
+QwtPlot                              QwtPlot                              
+QwtPlotAbstractBarChart              QwtPlotAbstractBarChart              
+QwtPlotAbstractCanvas                QwtPlotAbstractCanvas                
+QwtPlotBarChart                      QwtPlotBarChart                      
+QwtPlotCanvas                        QwtPlotCanvas                        
+QwtPlotCurve                         QwtPlotCurve                         
+QwtPlotDict                          QwtPlotDict                          
+QwtPlotDirectPainter                 QwtPlotDirectPainter                 
+QwtPlotGLCanvas                      QwtPlotGLCanvas                      
+QwtPlotGraphicItem                   QwtPlotGraphicItem                   
+QwtPlotGrid                          QwtPlotGrid                          
+QwtPlotHistogram                     QwtPlotHistogram                     
+QwtPlotIntervalCurve                 QwtPlotIntervalCurve                 
+QwtPlotItem                          QwtPlotItem                          
+QwtPlotLayout                        QwtPlotLayout                        
+QwtPlotLegendItem                    QwtPlotLegendItem                    
+QwtPlotMagnifier                     QwtPlotMagnifier                     
+QwtPlotMarker                        QwtPlotMarker                        
+QwtPlotMultiBarChart                 QwtPlotMultiBarChart                 
+QwtPlotOpenGLCanvas                  QwtPlotOpenGLCanvas                  
+QwtPlotPanner                        QwtPlotPanner                        
+QwtPlotPicker                        QwtPlotPicker                        
+QwtPlotRasterItem                    QwtPlotRasterItem                    
+QwtPlotRenderer                      QwtPlotRenderer                      
+QwtPlotRescaler                      QwtPlotRescaler                      
+QwtPlotScaleItem                     QwtPlotScaleItem                     
+QwtPlotSeriesItem                    QwtPlotSeriesItem                    
+QwtPlotShapeItem                     QwtPlotShapeItem                     
+QwtPlotSpectroCurve                  QwtPlotSpectroCurve                  
+QwtPlotSpectrogram                   QwtPlotSpectrogram                   
+QwtPlotSvgItem                       QwtPlotSvgItem                       
+QwtPlotTextLabel                     QwtPlotTextLabel                     
+QwtPlotTradingCurve                  QwtPlotTradingCurve                  
+QwtPlotVectorField                   QwtPlotVectorField                   
+QwtPlotZoneItem                      QwtPlotZoneItem                      
+QwtPlotZoomer                        QwtPlotZoomer                        
+QwtPoint3D                           QwtPoint3D                           
+QwtPoint3DSeriesData                 QwtPoint3DSeriesData                 
+QwtPointArrayData                    QwtPointArrayData                    
+QwtPointMapper                       QwtPointMapper                       
+QwtPointPolar                        QwtPointPolar                        
+QwtPointSeriesData                   QwtPointSeriesData                   
+QwtPowerTransform                    QwtPowerTransform                    
+QwtRasterData                        QwtRasterData                        
+QwtRichTextEngine                    QwtRichTextEngine                    
+QwtRoundScaleDraw                    QwtRoundScaleDraw                    
+QwtSamplingThread                    QwtSamplingThread                    
+QwtSaturationValueColorMap           QwtSaturationValueColorMap           
+QwtScaleArithmetic                   QwtScaleArithmetic                   
+QwtScaleDiv                          QwtScaleDiv                          
+QwtScaleDraw                         QwtScaleDraw                         
+QwtScaleEngine                       QwtScaleEngine                       
+QwtScaleMap                          QwtScaleMap                          
+QwtScaleWidget                       QwtScaleWidget                       
+QwtSeriesData                        QwtSeriesData                        
+QwtSetSample                         QwtSetSample                         
+QwtSetSeriesData                     QwtSetSeriesData                     
+QwtSimpleCompassRose                 QwtSimpleCompassRose                 
+QwtSlider                            QwtSlider                            
+QwtSpline                            QwtSpline                            
+QwtSplineBasis                       QwtSplineBasis                       
+QwtSplineC1                          QwtSplineC1                          
+QwtSplineC2                          QwtSplineC2                          
+QwtSplineCubic                       QwtSplineCubic                       
+QwtSplineCurveFitter                 QwtSplineCurveFitter                 
+QwtSplineG1                          QwtSplineG1                          
+QwtSplineInterpolating               QwtSplineInterpolating               
+QwtSplineLocal                       QwtSplineLocal                       
+QwtSplineParameter                   QwtSplineParameter                   
+QwtSplineParametrization             QwtSplineParametrization             
+QwtSplinePleasing                    QwtSplinePleasing                    
+QwtSplinePolynomial                  QwtSplinePolynomial                  
+QwtSymbol                            QwtSymbol                            
+QwtSyntheticPointData                QwtSyntheticPointData                
+QwtSystemClock                       QwtSystemClock                       
+QwtText                              QwtText                              
+QwtTextEngine                        QwtTextEngine                        
+QwtTextLabel                         QwtTextLabel                         
+QwtThermo                            QwtThermo                            
+QwtTradingChartData                  QwtTradingChartData                  
+QwtTransform                         QwtTransform                         
+QwtVectorFieldArrow                  QwtVectorFieldArrow                  
+QwtVectorFieldData                   QwtVectorFieldData                   
+QwtVectorFieldSample                 QwtVectorFieldSample                 
+QwtVectorFieldSymbol                 QwtVectorFieldSymbol                 
+QwtVectorFieldThinArrow              QwtVectorFieldThinArrow              
+QwtWeedingCurveFitter                QwtWeedingCurveFitter                
+QwtWheel                             QwtWheel                             
+QwtWidgetOverlay                     QwtWidgetOverlay                     

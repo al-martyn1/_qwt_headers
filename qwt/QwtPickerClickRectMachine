@@ -1,10 +1,12 @@
 #pragma once
 
-#if !defined(UMBA_MAKE_HEADERS_GENERATED_QwtPickerClickRectMachine_from_qwt__INCLUDE_GUARD)
+#if !defined(UMBA_MAKE_HEADERS_GENERATED_QwtPickerClickRectMachine_from_qwt_QwtPickerClickRectMachine_INCLUDE_GUARD)
 
-    #define UMBA_MAKE_HEADERS_GENERATED_QwtPickerClickRectMachine_from_qwt__INCLUDE_GUARD
+    #define UMBA_MAKE_HEADERS_GENERATED_QwtPickerClickRectMachine_from_qwt_QwtPickerClickRectMachine_INCLUDE_GUARD
 
     // https://doc.qt.io/qt-5/qwtpickerclickrectmachine.html
+
+    #include <QwtPickerClickRectMachine>
 
     #if defined(_MSC_VER)
 
@@ -20,5 +22,5 @@
 
     #endif /* _MSC_VER */
 
-#endif /* UMBA_MAKE_HEADERS_GENERATED_QwtPickerClickRectMachine_from_qwt__INCLUDE_GUARD */
+#endif /* UMBA_MAKE_HEADERS_GENERATED_QwtPickerClickRectMachine_from_qwt_QwtPickerClickRectMachine_INCLUDE_GUARD */
 
